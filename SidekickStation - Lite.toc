@@ -1,0 +1,8 @@
+## Interface: 100000
+## Version: v11.1.5.5.1
+## Title: SidekickStation - Lite
+## Notes: Managing your Favorite Mounts and Pets
+## SavedVariablesPerCharacter: SidekickStationDB_Lite
+## Author: Christopher Young
+## IconTexture: Interface\AddOns\SidekickStation - Lite\Textures\SidekickStation.png
+SidekickStation - Lite.lua
